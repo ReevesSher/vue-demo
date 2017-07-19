@@ -3,7 +3,7 @@
 > A Vue.js project with vuex vue-router vue-material and axios es7 async
 including most of the basic uses of vue and other relevant <br/>
 whats it for ? fetch the repositories data by the GitHub token of users and imitate the sigh in process
-
+<br/>demo: https://reevessher.github.io/vue-demo/
 ## About
 > It`s forked and I made changes for practical use , generating Github token and fetch the repositories data<br/>
 * use localStorage to store token and the data we fetched, keeping alive at the same time
